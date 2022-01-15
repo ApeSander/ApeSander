@@ -1,0 +1,5 @@
+name: RareKnoppen
+version: '1.0'
+main: me.apesander.main.Main
+api-version: 1.18
+author: ApeSander
